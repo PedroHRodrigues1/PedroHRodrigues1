@@ -7,7 +7,7 @@
 ```python
 def get_information_about_me() -> str:
     return {
-        'age': 24,
+        'age': 25,
         'college': 'FIAP - Solutions architect'
     }
 
